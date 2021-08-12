@@ -1,0 +1,1 @@
+{"uuid":"fb9e86f3-b1d6-4872-b5dc-eceef6cc97fc","name":"appium.Controller.set","children":["82d8771b-98d2-491b-a3f6-ea7e651167fb"],"description":"","befores":[{"name":"set","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1627998938447,"stop":1627998970754}],"afters":[],"links":[],"start":1627998938446,"stop":1627998970755}
